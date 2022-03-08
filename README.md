@@ -1,5 +1,5 @@
 # postgresSQL-solutions
-Learning SQL through PostgreSQL exercises.
+Exercises link:
 
 [PostgresSQL Exercises](https://pgexercises.com/gettingstarted.html)
 
