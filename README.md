@@ -1,7 +1,7 @@
 # postgresSQL-solutions
 
-Exercises link: [PostgresSQL Exercises](https://pgexercises.com/gettingstarted.html)
-By clicking on the solutions, you can find particular link to that problem. 
+Exercises link: [PostgresSQL Exercises](https://pgexercises.com/gettingstarted.html). 
+By clicking on my solutions, you can find particular link to that problem. 
 
 Tables used for testing query:
 
