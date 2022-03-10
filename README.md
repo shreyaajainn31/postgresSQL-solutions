@@ -1,6 +1,6 @@
 # postgresSQL-solutions
 
-Exercises link: [PostgresSQL Exercises](https://pgexercises.com/gettingstarted.html). 
+Link to [PostgresSQL Exercises](https://pgexercises.com/gettingstarted.html). 
 By clicking on my solutions, you can find particular link to that problem. 
 
 Database used for testing query:
