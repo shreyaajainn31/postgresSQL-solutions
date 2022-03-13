@@ -5,7 +5,7 @@ By clicking on my solutions, you can find particular link to that problem.
 
 Question links: 
 1. [Basic](https://pgexercises.com/questions/basic/)
-2. [Joins and Subqueries] (https://pgexercises.com/questions/joins/)
+2. [Joins and Subqueries](https://pgexercises.com/questions/joins/)
 3. [Modifying data](https://pgexercises.com/questions/updates/)
 4. [Aggregates](https://pgexercises.com/questions/aggregates/)
 5. [Date](https://pgexercises.com/questions/date/)
