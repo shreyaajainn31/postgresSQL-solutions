@@ -3,7 +3,7 @@
 
 By clicking on my solutions, you can find particular link to that problem. 
 
-[PostgresSQL Exercises](https://pgexercises.com/gettingstarted.html). 
+[PostgresSQL Exercises](https://pgexercises.com/gettingstarted.html)
 
 Specific topic links: 
 1. [Basic](https://pgexercises.com/questions/basic/)
